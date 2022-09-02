@@ -43,12 +43,14 @@ Email: yic093@ucsd.edu
 ## OpenGL Shader [[link]](https://github.com/Adam-2000/OpenGL-Shader)
 - Reflections and Different Texture Mappings </br>
 
-![](Images/nanosuit1.jpg) ![](Images/nanosuit2.jpg) </br>
-![](Images/winter-girl1.jpg) ![](Images/winter-girl2.jpg) </br>
+| | |
+|--|--|
+|![](Images/nanosuit1.jpg) |![](Images/nanosuit2.jpg)|
+|![](Images/winter-girl1.jpg)| ![](Images/winter-girl2.jpg)|
 ![](Images/scifi-girl.jpg)
 
 ---
-## **Other Exciting Work**
+## **Other Exciting Works**
 - Operating System - ECE 391 Course Project [[link]](https://github.com/Adam-2000/MP3_ECE391)
 - Identification and Tracking of UAVs – Senior Design Project [[link]](https://github.com/zhourrr/Drone-Tracker-optical-sensors-)
 - Networks and Distributed System [[link]](https://github.com/Adam-2000/ece438_github)
