@@ -1,6 +1,6 @@
 # Yize Chen's Portfolio
 Check out more on my [Github](https://github.com/Adam-2000) and
-[LinkedIn Profile](https://www.linkedin.com/in/yize-chen-180901207/) </br>
+[LinkedIn Profile](https://www.linkedin.com/in/yize-chen-180901207/) <br/>
 Email: yic093@ucsd.edu
 
 ## **Game Development**
@@ -25,7 +25,7 @@ Email: yic093@ucsd.edu
 ---
 * And this is my another VR educational game [Crystal Vision](https://github.com/Adam-2000/VR_CS397_4_27)
 ---
-</br>
+<br/>
 
 ## **Computer Graphics**
 ### 3D Rendering pipeline with Haskell
@@ -33,19 +33,19 @@ Email: yic093@ucsd.edu
 >**Check out** our [project code](https://github.com/TaKeTube/HaScene) 
 
 ## Ray Tracer
-- Grid Acceleration: 40k triangles bunny rendered in 4 sec by CPU (Reduced from 20 minutes) [[link]](https://github.com/Adam-2000/MIT_6.837/tree/main/Assignment6)</br>
-  ![](Images/bunny.png) ![](Images/bunnyGrid.png) </br>
+- Grid Acceleration: 40k triangles bunny rendered in 4 sec by CPU (Reduced from 20 minutes) [[link]](https://github.com/Adam-2000/MIT_6.837/tree/main/Assignment6)<br/>
+  ![](Images/bunny.png) ![](Images/bunnyGrid.png) <br/>
   ![](Images/bunnyLog.png)
-- Reflection & Refraction & Shadows & Super-Sampling Anti-Aliasing [[link]](https://github.com/Adam-2000/MIT_6.837/tree/main/Assignment7)</br>
+- Reflection & Refraction & Shadows & Super-Sampling Anti-Aliasing [[link]](https://github.com/Adam-2000/MIT_6.837/tree/main/Assignment7)<br/>
   ![](Images/sphere.png) ![](Images/diamond.png) ![](Images/text.png)
-- Curves & Surfaces [[link]](https://github.com/Adam-2000/MIT_6.837/tree/main/Assignment8)</br>
+- Curves & Surfaces [[link]](https://github.com/Adam-2000/MIT_6.837/tree/main/Assignment8)<br/>
   ![](Images/teapot.png) ![](Images/surface.png)
 ### Global Illumination
-- Monte-Carlo Intergration & Russian Roulette & BVH Tree Acceleration [[link]](https://github.com/Adam-2000/Games101/tree/main/Assignment7)</br>
+- Monte-Carlo Intergration & Russian Roulette & BVH Tree Acceleration [[link]](https://github.com/Adam-2000/Games101/tree/main/Assignment7)<br/>
   ![](Images/room.png)
 
 ## OpenGL Shader [[link]](https://github.com/Adam-2000/OpenGL-Shader)
-- Reflections and Different Texture Mappings </br>
+- Reflections and Different Texture Mappings <br/>
 
 | | |
 |--|--|
@@ -61,6 +61,6 @@ Email: yic093@ucsd.edu
 - GPU Convolution Kernel Optimizations [[link]](https://github.com/Adam-2000/ece408_project)
 - Relational Database - CS 225 Course Project [[link]](****)
 - Bear Map [[link]](https://github.com/Adam-2000/CS61B_UCBerkeley/tree/main/proj3)
-</br>
-</br>
+<br/>
+<br/>
 ---
