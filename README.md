@@ -28,7 +28,7 @@ Email: yic093@ucsd.edu
 <br/>
 
 ## **Computer Graphics**
-### 3D Rendering pipeline with Haskell
+### ASCII 3D Renderer with Haskell
 ![haskell](Images/Haskell.gif)
 >**Check out** our [project code](https://github.com/TaKeTube/HaScene) 
 
