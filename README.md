@@ -33,6 +33,12 @@ Email: yic093@ucsd.edu
 >**Check out** our [project code](https://github.com/TaKeTube/HaScene) 
 
 ## Ray Tracer
+### Lojolla Renderer [[link]](https://github.com/Adam-2000/lajolla_public)
+- Disney BSDF <br/>
+  ![](Images/lajolla_disney_bsdf.png)
+- The room <br/>
+  ![](Images/lajolla_cbox.png)
+### Previous Works
 - Grid Acceleration: 40k triangles bunny rendered in 4 sec by CPU (Reduced from 20 minutes) [[link]](https://github.com/Adam-2000/MIT_6.837/tree/main/Assignment6)<br/>
   ![](Images/bunny.png) ![](Images/bunnyGrid.png) <br/>
   ![](Images/bunnyLog.png)
