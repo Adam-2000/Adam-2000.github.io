@@ -36,8 +36,9 @@ Email: yic093@ucsd.edu
 ### Lojolla Renderer [[link]](https://github.com/Adam-2000/lajolla_public)
 - Disney BSDF <br/>
   ![](Images/lajolla_disney_bsdf.png)
-- The room <br/>
-  ![](Images/lajolla_cbox.png)
+- Volumetric Path Tracing <br/>
+  <img src="Images/lajolla_vol_cbox.png"  width="300" height="300">
+  <img src="Images/lajolla_vol_cbox_teapot.png"  width="300" height="300"><br/>
 ### Previous Works
 - Grid Acceleration: 40k triangles bunny rendered in 4 sec by CPU (Reduced from 20 minutes) [[link]](https://github.com/Adam-2000/MIT_6.837/tree/main/Assignment6)<br/>
   ![](Images/bunny.png) ![](Images/bunnyGrid.png) <br/>
@@ -46,18 +47,10 @@ Email: yic093@ucsd.edu
   ![](Images/sphere.png) ![](Images/diamond.png) ![](Images/text.png)
 - Curves & Surfaces [[link]](https://github.com/Adam-2000/MIT_6.837/tree/main/Assignment8)<br/>
   ![](Images/teapot.png) ![](Images/surface.png)
-### Global Illumination
-- Monte-Carlo Intergration & Russian Roulette & BVH Tree Acceleration [[link]](https://github.com/Adam-2000/Games101/tree/main/Assignment7)<br/>
-  ![](Images/room.png)
 
 ## OpenGL Shader [[link]](https://github.com/Adam-2000/OpenGL-Shader)
 - Reflections and Different Texture Mappings <br/>
-
-| | |
-|--|--|
-|![](Images/nanosuit1.jpg) |![](Images/nanosuit2.jpg)|
-|![](Images/winter-girl1.jpg)| ![](Images/winter-girl2.jpg)|
-![](Images/scifi-girl.jpg)
+<img src="Images/nanosuit1.jpg"  width="50%" height="50%">
 
 ---
 ## **Other Exciting Works**
