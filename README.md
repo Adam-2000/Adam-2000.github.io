@@ -37,7 +37,8 @@ Email: yic093@ucsd.edu
 - Disney BSDF <br/>
   ![](Images/lajolla_disney_bsdf.png)
 - Volumetric Path Tracing <br/>
-  <img src="Images/lajolla_hetvol_colored.png"  width="576" height="512"><br/>
+  <img src="Images/lajolla_hetvol_colored.png"  width="576" height="512">
+  <img src="Images/lajolla_hetvol.png"  width="512" height="512"><br/>
   <img src="Images/lajolla_vol_cbox.png"  width="300" height="300">
   <img src="Images/lajolla_vol_cbox_teapot.png"  width="300" height="300"><br/>
 ### Previous Works
