@@ -4,10 +4,6 @@ Check out more on my [Github](https://github.com/Adam-2000) and
 Email: yic093@ucsd.edu
 
 ## **Computer Graphics**
-### ASCII 3D Renderer with Haskell
-![haskell](Images/Haskell.gif)
->**Check out** our [project code](https://github.com/TaKeTube/HaScene) 
-
 ## Ray Tracer
 ### Lojolla Renderer [[link]](https://github.com/Adam-2000/lajolla_public)
 - Volumetric Path Tracing <br/>
@@ -17,6 +13,10 @@ Email: yic093@ucsd.edu
   <img src="Images/lajolla_hetvol.png"  width="300" height="300"><br/>
 - Disney BSDF <br/>
   ![](Images/lajolla_disney_bsdf.png)
+
+### ASCII 3D Renderer with Haskell
+![haskell](Images/Haskell.gif)
+>**Check out** our [project code](https://github.com/TaKeTube/HaScene) 
 
 ## **Game Development**
 ## Space Rover
