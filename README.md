@@ -42,7 +42,7 @@ Email: yic093@ucsd.edu
 ---
 <br/>
 
-### Previous Works
+## **Previous Works**
 - Grid Acceleration: 40k triangles bunny rendered in 4 sec by CPU (Reduced from 20 minutes) [[link]](https://github.com/Adam-2000/MIT_6.837/tree/main/Assignment6)<br/>
   ![](Images/bunny.png) ![](Images/bunnyGrid.png) <br/>
   ![](Images/bunnyLog.png)
