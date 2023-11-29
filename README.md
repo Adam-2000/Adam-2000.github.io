@@ -3,6 +3,21 @@ Check out more on my [Github](https://github.com/Adam-2000) and
 [LinkedIn Profile](https://www.linkedin.com/in/yize-chen-180901207/) <br/>
 Email: yic093@ucsd.edu
 
+## **Computer Graphics**
+### ASCII 3D Renderer with Haskell
+![haskell](Images/Haskell.gif)
+>**Check out** our [project code](https://github.com/TaKeTube/HaScene) 
+
+## Ray Tracer
+### Lojolla Renderer [[link]](https://github.com/Adam-2000/lajolla_public)
+- Volumetric Path Tracing <br/>
+  <img src="Images/lajolla_hetvol_colored.png"  width="576" height="512"><br/>
+  <img src="Images/lajolla_vol_cbox.png"  width="300" height="300">
+  <img src="Images/lajolla_vol_cbox_teapot.png"  width="300" height="300">
+  <img src="Images/lajolla_hetvol.png"  width="300" height="300"><br/>
+- Disney BSDF <br/>
+  ![](Images/lajolla_disney_bsdf.png)
+
 ## **Game Development**
 ## Space Rover
 ##### CS 498 Game Development Course Final Project
@@ -27,20 +42,6 @@ Email: yic093@ucsd.edu
 ---
 <br/>
 
-## **Computer Graphics**
-### ASCII 3D Renderer with Haskell
-![haskell](Images/Haskell.gif)
->**Check out** our [project code](https://github.com/TaKeTube/HaScene) 
-
-## Ray Tracer
-### Lojolla Renderer [[link]](https://github.com/Adam-2000/lajolla_public)
-- Disney BSDF <br/>
-  ![](Images/lajolla_disney_bsdf.png)
-- Volumetric Path Tracing <br/>
-  <img src="Images/lajolla_hetvol_colored.png"  width="576" height="512"><br/>
-  <img src="Images/lajolla_vol_cbox.png"  width="300" height="300">
-  <img src="Images/lajolla_vol_cbox_teapot.png"  width="300" height="300">
-  <img src="Images/lajolla_hetvol.png"  width="300" height="300"><br/>
 ### Previous Works
 - Grid Acceleration: 40k triangles bunny rendered in 4 sec by CPU (Reduced from 20 minutes) [[link]](https://github.com/Adam-2000/MIT_6.837/tree/main/Assignment6)<br/>
   ![](Images/bunny.png) ![](Images/bunnyGrid.png) <br/>
