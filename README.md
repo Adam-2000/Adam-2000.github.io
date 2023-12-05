@@ -42,6 +42,12 @@ Email: yic093@ucsd.edu
 ---
 <br/>
 
+### Physics Simulation [[link]](https://github.com/Adam-2000/learn_Taichi_elastic_body_simulation)
+- Elastic Body Simulation <br/>
+  ![](Images/bouncing_ball.gif)
+- Fluid Simulation <br/>
+  ![](Images/fluid_simulation.gif)
+
 ## **Previous Works**
 - Grid Acceleration: 40k triangles bunny rendered in 4 sec by CPU (Reduced from 20 minutes) [[link]](https://github.com/Adam-2000/MIT_6.837/tree/main/Assignment6)<br/>
   ![](Images/bunny.png) ![](Images/bunnyGrid.png) <br/>
